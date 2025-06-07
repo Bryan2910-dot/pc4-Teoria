@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pc4-Teoria")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a49227468103a5db787f1d50e0199249ccbd2814")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8798c9ddc11bc68d70e4c929a723f5fa15badcf3")]
 [assembly: System.Reflection.AssemblyProductAttribute("pc4-Teoria")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pc4-Teoria")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
