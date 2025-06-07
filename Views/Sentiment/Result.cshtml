@@ -1,0 +1,6 @@
+@model WebApp.Models.ViewModels.SentimentInputViewModel
+<h2>Resultado del Análisis</h2>
+<p><strong>Texto:</strong> @Model.Text</p>
+<p><strong>Sentimiento:</strong> @Model.Prediction</p>
+<p><strong>Score:</strong> @Model.Score</p>
+<a href="/Sentiment/Index">Volver</a>

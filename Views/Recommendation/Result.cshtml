@@ -1,0 +1,9 @@
+@model WebApp.Models.ViewModels.RecommendationInputViewModel
+<h2>Recomendaciones para @Model.UserId</h2>
+<ul>
+@foreach (var r in Model.Recommendations)
+{
+    <li>@r.ProductId - Score: @r.Score</li>
+}
+</ul>
+<a href="/Recommendation/Index">Volver</a>
